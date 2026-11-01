@@ -1,44 +1,35 @@
 <div align="center">
 
-  <p><code>~/abdullah-krs</code></p>
-  
-  <h1>Abdullah Al Kharusi</h1>
-  <p><strong>Full-Stack Software Engineer & Mobile Systems Architect</strong></p>
+  <!-- 🌌 Elite Cyberpunk Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,4,12,24,36&height=210&section=header&text=ABDULLAH%20AL%20KHARUSI&fontSize=40&fontColor=38BDF8&fontAlignY=38&desc=Senior%20Full-Stack%20Engineer%20&%20Systems%20Architect&descSize=16&descAlignY=65&animation=fadeIn" width="100%" />
 
-  <p>
-    <a href="mailto:me@abdullahkrs.com"><code>me@abdullahkrs.com</code></a> • 
-    <a href="https://abdullahkrs.com" target="_blank"><code>abdullahkrs.com</code></a>
+  <!-- ⚡ Hacker / Terminal Dynamic Stream -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=%3E+System.initialize(%22Abdullah_Core%22);Architecting+Next-Gen+Mobile+&+Web+Apps;Building+Scalable+Node.js+&+Python+Microservices;Deploying+Secure+Cloudflare+Edge+Infrastructure" alt="Typing SVG" />
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=abdulla7krs&style=for-the-badge&color=0284c7&label=SYSTEM+ACCESS" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/STATUS-ONLINE_%26_DEPLOYING-10b981?style=for-the-badge&logo=appveyor&logoColor=white" alt="Status" />
+    <a href="mailto:me@abdullahkrs.com">
+      <img src="https://img.shields.io/badge/SECURE_MAIL-me%40abdullahkrs.com-ef4444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
   </p>
-
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 💻 ⟬ ADVANCED SYSTEM TOPOLOGY ⟭
 
-I am a software engineer focused on building high-performance, resilient cross-platform applications and scalable backend systems. My core expertise spans modern mobile engineering, API architecture, and cloud edge infrastructure.
-
----
-
-### ⚙️ Core Technical Stack
-
-- **Languages:** Dart, Python, JavaScript, TypeScript
-- **Mobile & Frontend:** Flutter, Native Android Architecture
-- **Backend & APIs:** Node.js, Express, Microservices
-- **Infrastructure & Cloud:** Cloudflare Edge, Supabase, Firebase, Linux, Git
-
----
-
-### 📊 GitHub Activity & Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulla7krs&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulla7krs&layout=compact&theme=transparent&hide_border=true&langs_count=5" alt="Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulla7krs&theme=transparent&hide_border=true" alt="Streak" />
-</p>
+```text
+ ┌────────────────────────────────┐     ┌────────────────────────────────┐
+ │        📱 MOBILE CLIENT        │     │        ⚡ BACKEND CORE         │
+ │  Flutter • Dart • Native Android │ ──> │  Node.js • Python • RESTful API │
+ │  High-FPS Cross-Platform UI    │     │  Scalable Microservices & Logic│
+ └────────────────────────────────┘     └────────────────────────────────┘
+                 │                                      │
+                 └──────────────────┬───────────────────┘
+                                    ▼
+                    ┌───────────────────────────────┐
+                    │      ☁️ CLOUD & INFRASTRUCTURE │
+                    │ Cloudflare Edge • Supabase • Git│
+                    │ Distributed Security & Routing│
+                    └───────────────────────────────┘
