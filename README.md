@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 🌌 Elite Cyberpunk Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,4,12,24,36&height=220&section=header&text=Abdullah%20AL%20KHARUSI&fontSize=40&fontColor=38BDF8&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20&%20Systems%20Architect&descSize=16&descAlignY=65&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,4,12,24,36&height=220&section=header&text=Abdullah%20AL%20kharusi&fontSize=40&fontColor=38BDF8&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20&%20Systems%20Architect&descSize=16&descAlignY=65&animation=fadeIn" width="100%" />
 
   <!-- ⚡ Terminal Dynamic Stream -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&height=50&lines=%3E+System.initialize(%22Abdullah_Core%22);Architecting+Next-Gen+Mobile+&+Web+Apps;Building+Scalable+Node.js+&+Python+Microservices;Deploying+Secure+Cloudflare+Edge+Infrastructure" alt="Typing SVG" />
